@@ -1,0 +1,9 @@
+{"objects": 
+    [{"type":"can", "material":"aluminium"},
+    {"type":"bottle", "material":"glass"},
+    {"type":"bootle", "material":"plastic"},
+    {"type":"paper", "material":"paper"},
+    {"type":"cardboard", "material":"cardboard"},
+    {"type":"jar", "material":"glass"},
+    {"type":"can", "material":"metal"}]
+}
